@@ -9,7 +9,7 @@
          "manager",
          "Maxrobot"
       ],   
-   "repository": "https://github.com/sltechworld/Max-Robot",
+   "repository": "https://github.com/ImAroshaKovida/Max-Robot",
    "addons": [
       {
          "options": {
@@ -184,5 +184,5 @@
       "daisy"
    ],
    "name": "Max Robot",
-   "repository": "https://github.com/masupun/Max-Robot"
+   "repository": "https://github.com/ImAroshaKovida/Max-Robot"
 }
