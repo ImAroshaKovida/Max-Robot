@@ -66,7 +66,7 @@ from Maxrobot.modules.system_stats import bot_sys_stats
 
 
 PM_START_TEXT = """
-Hey there!👋  My name is Max Robot ⚡️
+Hey there!👋  My name is dog ⚡️
 I can manage your  group with lots of useful features, feel free to add me to your group
 """
 
